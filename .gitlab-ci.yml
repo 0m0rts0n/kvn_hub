@@ -1,0 +1,15 @@
+stages:
+  - deploy
+
+deploy-pages:
+  stage: deploy
+  image: alpine:3.22
+  script:
+    - mkdir -p public
+    - cp index.html styles.css script.js data.txt .nojekyll public/
+  artifacts:
+    paths:
+      - public
+  pages: true
+  rules:
+    - if: '$CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH'

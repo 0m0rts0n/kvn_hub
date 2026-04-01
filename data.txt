@@ -1,11 +1,6 @@
-kvn_hub
-=======
-
-Это пример текстового файла, который читается через fetch() с GitHub Pages.
-
-Что можно менять:
-- заголовок и произвольный текст;
-- список строк с данными;
-- конфигурацию, которую удобно хранить в plain text.
-
-После изменения файла закоммитьте его и отправьте в репозиторий.
+vless://1bfbfbb3-04da-4c23-b416-8a22e23527ba@185.231.246.246:8443?mode=auto&path=%2F&security=reality&encryption=none&pbk=qhVa3fznOaR5njXCAFFVA3ENjwoYie8VXQVJjNtPy3k&fp=chrome&spx=%2F&allowinsecure=0&type=xhttp&sni=io.ozone.ru&sid=ace43ca0cd#ftwqruqa
+vless://864c857a-82e1-488c-b445-0539d6cf1752@185.231.246.246:9443?security=reality&encryption=none&pbk=iqhBfEIypJMokNk1Nwms6Ss-l6ut7mntgNhpsKpUZwg&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=io.ozone.ru&sid=870048#g2wbw0j5
+vless://1b071cf0-33bc-41f9-b9f9-f1f21d2f7287@193.42.63.118:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=vFehdQh7zjaj1G3GaE3IkyiPA9YPpSTFTCqPOI2v2DQ&fp=chrome&spx=%2F&allowinsecure=0&type=xhttp&sni=google.com&sid=a956c6#05baou0i
+vless://67bae59e-1890-41e2-8aad-c2dd7923db25@193.42.63.118:8443?mode=auto&path=%2F&security=reality&encryption=none&pbk=rRM70a6_ptJLLV0hwovTr9fh3cd_tgSIYvYaSygl238&fp=chrome&spx=%2F&allowinsecure=0&type=xhttp&sni=updates.cdn-apple.com&sid=c42416e6#9mq9447k
+vless://09353db5-1c36-4766-9bc1-49767ef4252a@87.120.92.3:8443?mode=auto&path=%2F&security=reality&encryption=none&pbk=riW7tMmkSdLp8p3pX5oH7_zmdNqymUNO_fcZ3RXXKQc&fp=chrome&spx=%2F&allowinsecure=0&type=xhttp&sni=updates.cdn-apple.com&sid=c5cd#dvrg0qxq
+vless://2d6f2050-2250-4384-987f-8d274c25d7b9@185.231.246.246:7443?mode=auto&path=%2F&security=reality&encryption=none&pbk=5-IHSJ95YuTFvzxKC_t5CuM7lQv-cSsyZneu8mXanBM&fp=chrome&spx=%2F&allowinsecure=0&type=xhttp&sni=sun6-21.userapi.com&sid=278d#i879tjgo
